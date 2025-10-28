@@ -1,8 +1,7 @@
 {
-  "name": "ProjectContentServer",
+  "name": "@iflow-mcp/ProjectContentServer",
   "version": "0.1.0",
   "description": "provides all the relevant files of the project",
-  "private": true,
   "type": "module",
   "bin": {
     "ProjectContentServer": "./build/index.js"
