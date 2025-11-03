@@ -1,6 +1,6 @@
 {
-  "name": "@iflow-mcp/ProjectContentServer",
-  "version": "0.1.0",
+  "name": "@iflow-mcp/project-content-server",
+  "version": "0.1.1",
   "description": "provides all the relevant files of the project",
   "type": "module",
   "bin": {
